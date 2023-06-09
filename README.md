@@ -1,5 +1,5 @@
 # Curso-NodeJS
-Curso de INESEM enfocado a la creación de aplicaciones híbridas
+Curso de INESEM enfocado a la <strong>creación de aplicaciones híbridas</strong>
 
 Gracias a la oportunidad que me dieron en mi trabajo de continuar formándome, decidí realizar un curso de INESEM de creación de aplicaciones híbridas. En este, trabajaré con <strong>Node-JS, React-JS</strong> en el primer módulo y con <strong>React Native</strong> para el desarrollo de estas aplicaciones durante el segundo módulo. 
 En este repositorio subiré todos los proyectos realizados a lo largo del curso.
